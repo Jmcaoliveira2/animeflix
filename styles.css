@@ -9,14 +9,16 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(72, 100, 138);
 }
+
 h2{
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(42,122, 228);
     padding: 20px;
     font-size: 32px;
-    color:rgb(42, 122, 228);
+    color: rgb(72, 100, 138);
 }
+
 .chamada {
     background: rgb(31, 27, 27);
     padding-bottom: 80px;
